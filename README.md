@@ -1,6 +1,17 @@
 # The Gossip Project : l'application qui déchire
 
-Bonjour,
+Application rails pour The Hacking Project
+
+Git clone puis 
+
+Au lancement de l'application :
+1 : bundle install
+2 : rails db:create => si la base de donnée existe déjà rails db:drop
+3 : rails db:migrate
+4 : rails db:seed
+
+Puis, lancez Rails server
+
 
 Ce projet a été réalisé par la Team Gossip :
 
